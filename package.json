@@ -1,0 +1,27 @@
+{
+  "private": true,
+  "description": "REST API for Gemrock.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/gemrock/gemrock-api.git"
+  },
+  "keywords": [
+    "rest",
+    "ipfs"
+  ],
+  "collaborators": [
+    "Matthew Downs <matthew@gemrock.io>"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gemrock/gemrock-api/issues"
+  },
+  "homepage": "https://github.com/gemrock/gemrock-api#readme",
+  "dependencies": {
+    "ipfs": "^0.54.5"
+  }
+}
